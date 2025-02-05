@@ -11,6 +11,6 @@ def tone2read():
             uQnotrounded = -1*(ultrasonic2.distance/thresholdValue - 15) #Hier beginnt es, absteigend, mit einem Wert von etwa 14 statt 1, da der Sensor auf der anderen Seite des Pianos liegt
             uQrounded = int(uQnotrounded) #Genau gleich wie oben
             audio.playSound(uQrounded) #Genau gleich wie oben
-            sleep(0.05)
+            sleep(0.1)
 
 tone2read()  #Hier werden die Funktionen zum Starten des Pianos ausgeführt

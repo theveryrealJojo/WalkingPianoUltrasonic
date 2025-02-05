@@ -11,6 +11,6 @@ def tone1read():
             uQnotrounded = ultrasonic1.distance/thresholdValue #Legt einen ungefähren Wert für die Tonausgabe fest
             uQrounded = int(uQnotrounded) #Rundet den ungefähren Wert auf einen ganzzahligen Wert ab, der später den Ton aus dem Array wählt
             audio.playSound(uQrounded) #Führt die Funktion der Tonausgabe mit dem ganzzahligen Wert als Tonzuordnung aus
-            sleep(0.05)
+            sleep(0.5)
 
 tone1read() #Hier werden die Funktionen zum Starten des Pianos ausgeführt
