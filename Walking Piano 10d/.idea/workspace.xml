@@ -5,21 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e06033e5-cef5-4196-8908-859298e1f06f" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/../PythonProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/.idea/dictionaries/jonat.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/KompRechner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/NumberGuesser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/RPS+LS_Listed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/RPS_Listed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/RechnerAbruf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/RockPaperScissorsSimple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject/SimpleSecondTImer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WalkingPi_Raspbian/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USR_Fixed_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USR_Fixed_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WalkingPi_Raspbian/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WalkingPi_Raspbian/.idea/Walking Piano 10d.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WalkingPi_Raspbian/.idea/Walking Piano 10d.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WalkingPi_Raspbian/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WalkingPi_Raspbian/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WalkingPi_Raspbian/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WalkingPi_Raspbian/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WalkingPi_Raspbian/audio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WalkingPi_Raspbian/int_dist_conv_tester.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WalkingPi_Raspbian/int_trans_tester.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WalkingPi_Raspbian/ultrasonic_callData_tester.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,18 +37,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "theveryrealJojo"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;theveryrealJojo&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/theveryrealJojo/WalkingPianoUltrasonic.git",
-    "accountId": "72585eab-224b-45eb-9350-417341407ca3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/theveryrealJojo/WalkingPianoUltrasonic.git&quot;,
+    &quot;accountId&quot;: &quot;72585eab-224b-45eb-9350-417341407ca3&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -59,15 +63,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.USR Fixed 1.executor": "Run",
     "Python.Ultrasonic Reader1.executor": "Run",
+    "Python.audio.executor": "Run",
     "Python.int dist conv tester.executor": "Run",
     "Python.int trans tester.executor": "Run",
+    "Python.int_trans_tester.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/jonat/PycharmProjects",
+    "last_opened_file_path": "C:/Users/jonat/PycharmProjects/Walking Piano 10d",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jonat\PycharmProjects\Walking Piano 10d" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,6 +109,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
